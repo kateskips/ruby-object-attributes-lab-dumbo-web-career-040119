@@ -9,6 +9,7 @@ end
     @dogs_name
     binding.pry
   end
+end
   
   
   
