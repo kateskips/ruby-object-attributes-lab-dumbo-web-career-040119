@@ -7,9 +7,8 @@ end
   
   def name
     @dogs_name
-    binding.pry
   end
-end
+
   
   
   
